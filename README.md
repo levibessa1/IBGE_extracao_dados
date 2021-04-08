@@ -3,7 +3,7 @@ O objetivo é extrair todos os dados referentes aos municípios da  região do A
 
 
 1. Execute api.ipynb:
->>> Este arquivo tem o objetivo de extrair a lista de categorias dos dados referentes aos municípios, 
+    Este arquivo tem o objetivo de extrair a lista de categorias dos dados referentes aos municípios, 
 e então salva todos em um arquivo 'categorias.xlsx' , logo o código lerá este arquivo e gerará sumário das pesquisas referente a cada categoria em um diretório "./database/sumario"
 
 2. Execute generate.ipynb para ler os sumarios e realizar o download das respectivas pesquisas.
